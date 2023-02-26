@@ -4,7 +4,7 @@
 
 #### Data Preprocessing
 
-#### K-Means clustering before PCA
+#### K-Means clustering - before PCA
 
 #### Performing Principal Componant Analysis PCA
 
