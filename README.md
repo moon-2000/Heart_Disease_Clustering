@@ -1,4 +1,4 @@
-# heart_disease_clustering
+# Heart Disease Clustering
 
 #### Data reading and exploring
 
