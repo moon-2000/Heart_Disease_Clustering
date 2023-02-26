@@ -4,13 +4,11 @@
 
 #### Data Preprocessing
 
-#### Data Modelling with K-Means clustering 
-- without PCA (Dimensionality Reduction)
+#### K-Means clustering before PCA
 
 #### Performing Principal Componant Analysis PCA
 
-#### Data Modelling with K-Means clustering 
-- with PCA
+#### K-Means clustering - after PCA
 
 
 ## Resources  
