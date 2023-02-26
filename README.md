@@ -1,15 +1,15 @@
 # heart_disease_clustering
 
-## Data reading and exploring
+#### Data reading and exploring
 
-## Data Preprocessing
+#### Data Preprocessing
 
-## Data Modelling with K-Means clustering 
+#### Data Modelling with K-Means clustering 
 - without PCA (Dimensionality Reduction)
 
-## Performing Principal Componant Analysis PCA
+#### Performing Principal Componant Analysis PCA
 
-## Data Modelling with K-Means clustering 
+#### Data Modelling with K-Means clustering 
 - with PCA
 
 
